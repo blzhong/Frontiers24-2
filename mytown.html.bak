@@ -13,25 +13,21 @@
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
-        <p> <img src="images/valorant-featured-wallpaper.jpg" alt="" title="Logo"
+        <p> <img src="images/valorant-featured-wallpaper.jpg" alt="" title="Logo"
+
             style="width: 148px; height: 83px;"></p>
         <p>&nbsp;</p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
-          <h1>About Me</h1>
+          <h1>My Town</h1>
         </div>
-        <div><br>
-        </div>
-        Information: 17 years old, Rising Senior<br>
-        <div><br>
-        </div>
-        <div>Achievements:Eagle Scout</div>
-        <div><br>
-        </div>
-        <div>Hobbies: Video Games, Reading, Sports</div>
-        <div><br>
+        <div><img src="https://th.bing.com/th/id/OIP.XX1gFPKr1DHF7WMtMXkvXwHaHo?w=141&amp;h=152&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+
+            alt="Image result for yorktown high school logo ny"> </div>
+        Yorktown<br>
+        <div>That is about it.<br>
           <p>&nbsp;</p>
           <!-- end of content column: put your content above this line --> </div>
       </div>

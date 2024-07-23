@@ -20,15 +20,18 @@
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
-          <h1>Welcome</h1>
+          <h1>About Me</h1>
         </div>
         <div><br>
         </div>
-        <div>Hello!!</div>
-        <div>My name is Brandon Zhong.</div>
-        <div>I am from New York and I drove to WPI.</div>
-        <div>I am participating in the frontiers programs because I want to
-          explore future careers as well as learn important skills.</div>
+        Information: 17 years old, Rising Senior<br>
+        <div><br>
+        </div>
+        <div>Achievements:Eagle Scout, Silver presidents volunteer award </div>
+        <div><img src="https://clipartcraft.com/images/eagle-scout-logo-bsa.png"
+            style="width: 291px; height: 217px;"></div>
+        <div> </div>
+        Hobbies: Video Games, Reading, Sports
         <div><br>
         </div>
         <div><br>
