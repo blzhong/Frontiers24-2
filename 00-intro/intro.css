@@ -1,0 +1,25 @@
+/* This is the CSS decorator */
+/* SELECTOR PRIORITY
+   0. !important
+   1. #tag (single element)
+   2. .class (multiple elements of any type)
+   3. elementtype (all elements of one type)
+   4. * (all elements)
+ */
+
+ * {
+  font-family:'Times New Roman', Times, serif ;
+ }
+
+ h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ body {
+  background-color: rgb(49, 153, 205);
+  outline: 5px none black;
+ }
+
+ p {
+  margin: 0;
+  color: aqua; 
+ }
